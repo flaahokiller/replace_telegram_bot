@@ -1,5 +1,5 @@
 import telebot
-database="users.db"
-url='https://replace.org.ua/search/recent/'
-bot = telebot.TeleBot('984177260:AAFvgBfiz2fTHISre5641PlrVZSs3ctnLQQ')
+database="users.db"#в базі данних дві таблиці в одній зберігаються повідомлення в другій список користувачів
+url='https://replace.org.ua/search/recent/'#Сторінка зі списком активних тем на реплейс
+bot = telebot.TeleBot('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')#ТОКЄН
 
