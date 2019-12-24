@@ -1,7 +1,5 @@
--f /usr/share/pip-wheels
 beautifulsoup4==4.8.1
-bs4==0.0.1
-requests==2.7.0
+requests==2.22.0
 schedule==0.6.0
 soupsieve==1.9.5
-telebot==3.6.6
+pyTelegramBotAPI==3.6.6
